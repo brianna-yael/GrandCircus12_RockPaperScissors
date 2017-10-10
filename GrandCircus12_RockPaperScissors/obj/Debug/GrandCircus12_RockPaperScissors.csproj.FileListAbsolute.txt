@@ -1,0 +1,12 @@
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.exe.config
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.exe
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.pdb
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.exe
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.pdb
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.exe.config
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.exe
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\bin\Debug\GrandCircus12_RockPaperScissors.pdb
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.exe
+C:\Users\bjm37\Documents\Visual Studio 2017\Projects\GrandCircus12_RockPaperScissors\GrandCircus12_RockPaperScissors\obj\Debug\GrandCircus12_RockPaperScissors.pdb
